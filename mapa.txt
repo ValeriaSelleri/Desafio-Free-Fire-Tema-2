@@ -1,0 +1,3 @@
+1;IlhaA;x:12,y:34
+2;IlhaB;x:56,y:78
+3;CidadeC; x:22,y:45
